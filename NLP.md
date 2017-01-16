@@ -22,3 +22,9 @@ https://magenta.tensorflow.org/2016/12/16/nips-demo/
 
 Useful NLP dataset from Microsoft
 http://www.msmarco.org/
+
+## 16.01.2016
+
+Wrap ups from DeepMind and Google Brain teams, very good summary of latest developments in Machine Learning:
+https://deepmind.com/blog/deepmind-round-up-2016/
+https://research.googleblog.com/2017/01/the-google-brain-team-looking-back-on.html
