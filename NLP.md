@@ -28,3 +28,17 @@
 Wrap ups from DeepMind and Google Brain teams, very good summary of latest developments in Machine Learning:
 - https://deepmind.com/blog/deepmind-round-up-2016/
 - https://research.googleblog.com/2017/01/the-google-brain-team-looking-back-on.html
+
+## 30.04.2017
+
+- [A Structured Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130):
+This paper proposes a new model for extracting an interpretable sentence embedding by introducing self-attention. Instead of using a vector, the authors use a 2-D matrix to represent the embedding, with each row of the matrix attending on a different part of the sentence
+
+- https://github.com/facebookresearch/fastText:
+Word vectors for 90 languages trained on Wikipedia using fastText using the skip-gram model. Could be a good addition to any multilingual NLP pipeline.
+
+- [Unsupervised sentiment neuron](https://blog.openai.com/unsupervised-sentiment-neuron/):
+A team at OpenAI trained a large character prediction model on Amazon Reviews and discovered that a single neuron contains almost all of the sentiment signal.
+
+- [Natural Language Processing with Deep Learning (lectures)](https://www.youtube.com/watch?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&v=OQQ-W_63UgQ):
+Stanford’s “Natural Language Processing with Deep Learning” lectures video are now freely available on YouTube, covering everything from word vectors to Question Answering models.
