@@ -42,3 +42,8 @@ A team at OpenAI trained a large character prediction model on Amazon Reviews an
 
 - [Natural Language Processing with Deep Learning (lectures)](https://www.youtube.com/watch?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&v=OQQ-W_63UgQ):
 Stanford’s “Natural Language Processing with Deep Learning” lectures video are now freely available on YouTube, covering everything from word vectors to Question Answering models.
+
+## 06.05.2017
+
+- [Learning to Skim Text](https://arxiv.org/abs/1704.06877):
+An approach of reading text while skipping irrelevant information if needed. The underlying model is a recurrent network that learns how far to jump after reading a few words of the input text. Employs a policy gradient method to train the model to make discrete jumping decisions.
