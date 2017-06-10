@@ -47,3 +47,7 @@ Stanford’s “Natural Language Processing with Deep Learning” lectures video
 
 - [Learning to Skim Text](https://arxiv.org/abs/1704.06877):
 An approach of reading text while skipping irrelevant information if needed. The underlying model is a recurrent network that learns how far to jump after reading a few words of the input text. Employs a policy gradient method to train the model to make discrete jumping decisions.
+
+## 10.06.2017
+
+- [ParlAI](https://code.facebook.com/posts/266433647155520/parlai-a-new-software-platform-for-dialog-research) An open source platform for training and testing dialog models across multiple tasks at once. Researchers can submit new tasks and training algorithms to a single, shared repository.
