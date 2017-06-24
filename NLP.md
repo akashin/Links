@@ -50,4 +50,10 @@ An approach of reading text while skipping irrelevant information if needed. The
 
 ## 10.06.2017
 
-- [ParlAI](https://code.facebook.com/posts/266433647155520/parlai-a-new-software-platform-for-dialog-research) An open source platform for training and testing dialog models across multiple tasks at once. Researchers can submit new tasks and training algorithms to a single, shared repository.
+- [ParlAI](https://code.facebook.com/posts/266433647155520/parlai-a-new-software-platform-for-dialog-research): An open source platform for training and testing dialog models across multiple tasks at once. Researchers can submit new tasks and training algorithms to a single, shared repository.
+
+## 24.06.2017
+
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762):
+A new network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely. Experiments on two machine translation tasks show these models to be superior in quality while being more parallelizable and requiring significantly less time to train. The model achieves 28.4 BLEU on the WMT 2014 English-to-German translation task, improving over the existing best results.
+
